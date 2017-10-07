@@ -1,6 +1,5 @@
-## How to use this template
-
-This is a master tutorial for start for [Ionic 3 Framework](http://ionicframework.com/docs/) learning.
+# Ionic3_tutorial
+This is Ionic 3 Tutorial for reference
 
 ### With the Ionic CLI:
 
@@ -38,4 +37,3 @@ $ cordova plugin ls
 ```
 
 Substitute ios for android if not on a Mac.
-# Ionic2_tutorial

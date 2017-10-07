@@ -8,11 +8,9 @@ import { Toast } from '@ionic-native/toast';
 export class CommonController {
   public API_URL_LIST = "https://randomuser.me/api/";
 
-  // public API_PRODUCT_URL = "https://www.addtobuy.com/api/";
-  public API_PRODUCT_URL = "http://a2b.172.104.57.92.nip.io/api/";
+  public API_PRODUCT_URL = "https://randomuser.me/api/";
 
-  public API_URL_UPLOADS = "http://192.168.1.67:8400";
-  // public API_URL_UPLOADS = "http://a2b.172.104.57.92.nip.io/api/updateprofile";
+  public API_URL_UPLOADS = "YOUR IP";
 
   public loader;
   public toast;
